@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:edge
 MAINTAINER firewarm LightingLiu <liuyg@liuyingguang.cn>
 
 # Install root filesystem

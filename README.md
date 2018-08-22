@@ -5,7 +5,7 @@ ip curl vi cat top
 #### 构建步奏
 
 ```
-docker build -t lightinglyg/alpine-base:3.4 .
+docker build -t lightinglyg/alpine-base:3.8 .
 ```
 
 #### 对于时区设置的支持
